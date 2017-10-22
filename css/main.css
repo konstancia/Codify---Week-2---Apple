@@ -1,0 +1,43 @@
+body{
+  margin: 0 auto;
+}
+
+nav {
+  background-color: rgba(0,0,0,0.8);
+  width: auto;
+  height: 44px;
+
+}
+
+nav ul {
+  list-style: none;
+  margin: 0 auto;
+  text-align: center;
+
+}
+
+
+a {
+  text-decoration: none;
+
+}
+nav li {
+  color: white;
+  display: inline-block;
+  padding: 20px 10px 40px 10px;
+}
+
+
+header {
+    background: url(../img/iphone.jpg) no-repeat center center;
+    text-align: center;
+    margin: 0;
+    height: 400px;
+
+}
+
+header p {
+  color: white;
+  font-size: 25px;
+
+}
